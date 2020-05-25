@@ -7,13 +7,12 @@ This project is jointly done in colaboration with [Anuj Regmi](https://www.linke
 
 ### Results
 ![Test Image 1](data/output/0_Test.jpg)
-![Test Image 2](data/output/1_Test.jpg)
-![Test Image 3](data/output/3_Test.jpg)
-![Test Image 4](data/output/4_Test.jpg)
-![Test Image 5](data/output/5_Test.jpg)
-![Test Image 6](data/output/6_Test.jpg)
-![Test Image 7](data/output/7_Test.jpg)
-![Test Image 8](data/output/8_Test.jpg)
+![Test Image 2](data/output/3_Test.jpg)
+![Test Image 3](data/output/4_Test.jpg)
+![Test Image 4](data/output/5_Test.jpg)
+![Test Image 5](data/output/6_Test.jpg)
+![Test Image 6](data/output/7_Test.jpg)
+![Test Image 7](data/output/8_Test.jpg)
 
 ### Reference:
 1. [Image Classification using Transfer Learning in PyTorch](https://www.learnopencv.com/image-classification-using-transfer-learning-in-pytorch/)
