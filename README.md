@@ -1,5 +1,5 @@
 ### Introduction
-This project is jointly done in colaboration with [Anuj Regmi](https://www.linkedin.com/in/regmianuj1/), for detecting whether there is fire or not in the forest while monitoring from unmanned aerial vehicles (UAVs). This project can be modified for classification of any number of classes in various fields of study from agriculture to defense activities.
+This project is jointly done in colaboration with [Anuj Regmi](https://www.linkedin.com/in/regmianuj1/), for detecting whether there is fire or not in the forest while monitoring from unmanned aerial vehicles (UAVs). This project can be modified for classification of any number of classes in various fields of study from agriculture to defense.
 
 ### Usuage
 1. For downloading the images from online [here Google and Bing], run `online-download-data.py`
